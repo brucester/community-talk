@@ -6,6 +6,10 @@
 
 The goal: make the invisible work of community building visible. So others know what's happening in the space, what's possible, and how to get involved.
 
+**Society has been built a certain way over time — and it has become a monolith.** Fixed systems, fixed assumptions, fixed ways of living that no longer serve us.
+
+By creating **society pilots on the edge of the monolith**, we get to experiment and iterate quickly on social structures that are good for: **you**, **the collective**, and **the planet**.
+
 **The core question we always return to:**
 *How do we build neighborhoods where both people and land thrive?*
 
