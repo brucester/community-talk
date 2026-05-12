@@ -17,7 +17,7 @@
 
 ## The Concept Theme
 
-Society has been built a certain way over time — and it has become a monolith. Fixed systems, fixed assumptions, fixed ways of living that no longer serve us.
+Society has been built a certain way over time — and it has become a monolith. Fixed systems, fixed assumptions, fixed ways of living that can be improved.
 
 By creating **society pilots on the edge of the monolith**, we get to experiment and iterate quickly on social structures that are good for: **you**, **the collective**, and **the planet**.
 
