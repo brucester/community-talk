@@ -190,3 +190,7 @@ We're looking for people with real experience running society pilots on the edge
 ---
 
 *Building neighborhood by neighborhood — together.*
+| NEOS Life | Portugal (couple) | Community Founder |
+| Florian | Geodomes | Regen Designer & AI Engineer |
+| Frances | Regenesis | Founder |
+| Jean Luc | Regen Community Entrepreneur | Founder |
