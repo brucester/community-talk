@@ -1,4 +1,4 @@
-## Edge Of Society
+# Edge Of Society
 
 ## What Is This?
 

@@ -1,5 +1,7 @@
 # Edge Of Society
 
+> Society has been built a certain way over time — and it has become a monolith. By creating society pilots on the edge of the monolith, we get to experiment and iterate quickly on social structures that are good for you, the collective, and the planet.
+
 > A talk show exploring regenerative communities — guests, stories, and ideas shaping the future of neighborhood life.
 
 ---
