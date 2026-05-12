@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edge Of Society — Society Pilots on the Edge of the Monolith</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f8f9fa;
+            --bg-card: #ffffff;
+            --bg-card-hover: #f1f3f4;
+            --text-primary: #1a1a1a;
+            --text-secondary: #555555;
+            --text-tertiary: #888888;
+            --border: #e8e8e8;
+            --border-hover: #cccccc;
+            --accent: #1a73e8;
+            --red: #c5221f;
+            --orange: #e37400;
+            --yellow: #9a6700;
+            --green: #1e8e3e;
+            --blue: #1a73e8;
+            --indigo: #3f51b5;
+            --violet: #9334e6;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg-primary); color: var(--text-primary); line-height: 1.6; }
+        a { text-decoration: none; color: inherit; }
+        .container { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
+
+        /* Nav */
+        nav { position: fixed; top: 0; width: 100%; background: rgba(255,255,255,0.95); backdrop-filter: blur(10px); border-bottom: 1px solid var(--border); z-index: 100; }
+        nav .container { display: flex; align-items: center; justify-content: space-between; height: 64px; }
+        .nav-logo { font-weight: 800; font-size: 1.1rem; letter-spacing: -0.02em; }
+        .nav-logo span { color: var(--accent); }
+        .nav-links { display: flex; gap: 2rem; align-items: center; }
+        .nav-links a { font-size: 0.9rem; color: var(--text-secondary); font-weight: 500; transition: color 0.2s; }
+        .nav-links a:hover { color: var(--text-primary); }
+        .nav-cta { background: var(--accent); color: white !important; padding: 0.5rem 1.2rem; border-radius: 6px; font-weight: 600; transition: all 0.2s; }
+        .nav-cta:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(26,115,232,0.3); }
+
+        /* Hero */
+        .hero { padding: 8rem 2rem 5rem; text-align: center; }
+        .hero-eyebrow { font-size: 0.85rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-tertiary); margin-bottom: 1.5rem; }
+        .hero h1 { font-size: clamp(2.5rem, 6vw, 4.5rem); font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; margin-bottom: 2rem; }
+        .hero h1 .highlight { color: var(--accent); }
+        .hero-subtitle { font-size: 1.2rem; color: var(--text-secondary); max-width: 700px; margin: 0 auto 3rem; line-height: 1.7; }
+        .hero-tags { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; margin-bottom: 3rem; }
+        .tag { padding: 0.4rem 1rem; border-radius: 100px; font-size: 0.8rem; font-weight: 600; border: 1.5px solid var(--border); color: var(--text-secondary); }
+        .tag.red { border-color: var(--red); color: var(--red); }
+        .tag.orange { border-color: var(--orange); color: var(--orange); }
+        .tag.yellow { border-color: var(--yellow); color: var(--yellow); }
+        .tag.green { border-color: var(--green); color: var(--green); }
+        .tag.blue { border-color: var(--blue); color: var(--blue); }
+        .tag.indigo { border-color: var(--indigo); color: var(--indigo); }
+        .tag.violet { border-color: var(--violet); color: var(--violet); }
+        .hero-cta { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+        .btn { padding: 0.75rem 1.75rem; border-radius: 8px; font-weight: 600; font-size: 0.95rem; transition: all 0.2s; cursor: pointer; border: none; }
+        .btn-primary { background: var(--accent); color: white; }
+        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(26,115,232,0.3); }
+        .btn-secondary { background: var(--bg-card); border: 1.5px solid var(--border); color: var(--text-primary); }
+        .btn-secondary:hover { border-color: var(--border-hover); transform: translateY(-2px); }
+
+        /* Cover Image */
+        .cover-image { max-width: 900px; margin: 0 auto 5rem; border-radius: 16px; overflow: hidden; box-shadow: 0 20px 60px rgba(0,0,0,0.12); }
+        .cover-image img { width: 100%; display: block; }
+
+        /* Concept */
+        .concept { padding: 5rem 2rem; background: var(--bg-secondary); }
+        .concept .container { max-width: 800px; }
+        .section-label { font-size: 0.8rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-bottom: 1rem; }
+        .concept h2 { font-size: clamp(1.8rem, 4vw, 2.5rem); font-weight: 800; letter-spacing: -0.02em; margin-bottom: 1.5rem; line-height: 1.2; }
+        .concept p { font-size: 1.1rem; color: var(--text-secondary); line-height: 1.8; margin-bottom: 1.5rem; }
+        .concept p:last-child { font-weight: 500; color: var(--text-primary); }
+
+        /* Two things */
+        .two-things { padding: 5rem 2rem; }
+        .two-things .container { max-width: 900px; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+        .thing-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 2rem; transition: all 0.2s; }
+        .thing-card:hover { border-color: var(--border-hover); transform: translateY(-4px); box-shadow: 0 12px 30px rgba(0,0,0,0.08); }
+        .thing-num { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.75rem; }
+        .thing-num.red { color: var(--red); }
+        .thing-num.blue { color: var(--blue); }
+        .thing-card h3 { font-size: 1.3rem; font-weight: 700; margin-bottom: 0.75rem; }
+        .thing-card p { font-size: 0.95rem; color: var(--text-secondary); }
+
+        /* Guests */
+        .guests { padding: 5rem 2rem; background: var(--bg-secondary); }
+        .guests .container { max-width: 900px; }
+        .guests h2 { font-size: clamp(1.8rem, 4vw, 2.2rem); font-weight: 800; letter-spacing: -0.02em; margin-bottom: 0.5rem; text-align: center; }
+        .guests-subtitle { text-align: center; color: var(--text-secondary); font-size: 1rem; margin-bottom: 3rem; }
+        .guest-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
+        .guest-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; padding: 1.5rem; transition: all 0.2s; }
+        .guest-card:hover { border-color: var(--border-hover); transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.07); }
+        .guest-card h3 { font-size: 1rem; font-weight: 700; margin-bottom: 0.25rem; }
+        .guest-card .community { font-size: 0.85rem; color: var(--accent); font-weight: 500; margin-bottom: 0.25rem; }
+        .guest-card .type { font-size: 0.8rem; color: var(--text-tertiary); }
+
+        /* Episodes */
+        .episodes { padding: 5rem 2rem; }
+        .episodes .container { max-width: 900px; }
+        .episodes h2 { font-size: clamp(1.8rem, 4vw, 2.2rem); font-weight: 800; letter-spacing: -0.02em; margin-bottom: 2.5rem; text-align: center; }
+        .episode-list { display: flex; flex-direction: column; gap: 0.75rem; }
+        .episode-item { display: flex; align-items: center; gap: 1.25rem; padding: 1.1rem 1.5rem; background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; transition: all 0.2s; cursor: pointer; }
+        .episode-item:hover { border-color: var(--border-hover); transform: translateX(4px); box-shadow: 0 4px 16px rgba(0,0,0,0.06); }
+        .episode-num { font-size: 0.75rem; font-weight: 800; min-width: 28px; padding: 0.3rem 0.6rem; border-radius: 6px; text-align: center; }
+        .episode-num.red { background: rgba(197,34,31,0.1); color: var(--red); }
+        .episode-num.orange { background: rgba(227,116,0,0.1); color: var(--orange); }
+        .episode-num.yellow { background: rgba(154,103,0,0.1); color: var(--yellow); }
+        .episode-num.green { background: rgba(30,142,62,0.1); color: var(--green); }
+        .episode-num.blue { background: rgba(26,115,232,0.1); color: var(--blue); }
+        .episode-num.indigo { background: rgba(63,81,181,0.1); color: var(--indigo); }
+        .episode-num.violet { background: rgba(147,52,230,0.1); color: var(--violet); }
+        .episode-item:nth-child(7) .episode-num { background: rgba(197,34,31,0.1); color: var(--red); }
+        .episode-item:nth-child(8) .episode-num { background: rgba(227,116,0,0.1); color: var(--orange); }
+        .episode-item:nth-child(9) .episode-num { background: rgba(154,103,0,0.1); color: var(--yellow); }
+        .episode-item:nth-child(10) .episode-num { background: rgba(30,142,62,0.1); color: var(--green); }
+        .episode-title { font-weight: 600; font-size: 0.95rem; flex: 1; }
+        .episode-duration { font-size: 0.8rem; color: var(--text-tertiary); }
+        .episode-arrow { color: var(--text-tertiary); font-size: 1.2rem; }
+
+        /* Footer */
+        footer { padding: 4rem 2rem 3rem; border-top: 1px solid var(--border); text-align: center; }
+        footer p { font-size: 0.85rem; color: var(--text-tertiary); }
+        footer .tagline { font-size: 1rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 1rem; }
+
+        @media (max-width: 768px) {
+            .two-things .container { grid-template-columns: 1fr; }
+            .nav-links { display: none; }
+            .hero { padding: 6rem 1.5rem 3rem; }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <a href="#" class="nav-logo">Edge Of <span>Society</span></a>
+            <div class="nav-links">
+                <a href="#concept">Concept</a>
+                <a href="#episodes">Episodes</a>
+                <a href="#guests">Guests</a>
+                <a href="#episodes" class="nav-cta">Listen</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="container">
+            <div class="hero-eyebrow">A Talk Show</div>
+            <h1>Society Pilots on the<br><span class="highlight">Edge of the Monolith</span></h1>
+            <p class="hero-subtitle">Conversations about building neighborhoods where people and land thrive. We name the challenges and explore how AI tools can help — society has been built a certain way for too long.</p>
+            <div class="hero-tags">
+                <span class="tag red">🔥 Challenge Naming</span>
+                <span class="tag blue">🤖 AI Solutions</span>
+                <span class="tag green">🌱 Community</span>
+                <span class="tag violet">🌍 Neighborhood</span>
+                <span class="tag orange">⚡ Experiments</span>
+            </div>
+            <div class="hero-cta">
+                <button class="btn btn-primary" onclick="document.getElementById('episodes').scrollIntoView({behavior:'smooth'})">Explore Episodes</button>
+                <button class="btn btn-secondary" onclick="document.getElementById('concept').scrollIntoView({behavior:'smooth'})">The Concept</button>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="cover-image">
+            <img src="cover.jpg" alt="Edge Of Society — Society Pilots on the Edge of the Monolith" onerror="this.style.display='none'">
+        </div>
+    </div>
+
+    <section class="concept" id="concept">
+        <div class="container">
+            <div class="section-label">The Concept</div>
+            <h2>Society has become a monolith.<br>Time to build differently.</h2>
+            <p>Fixed systems, fixed assumptions, fixed ways of living that no longer serve us. The way we organize society — work, housing, governance, money — was designed for a world that no longer exists.</p>
+            <p>By creating <strong>society pilots on the edge of the monolith</strong>, we get to experiment and iterate quickly on social structures that are good for: you, the collective, and the planet.</p>
+            <p>Every episode names the real challenges in community and neighborhood growth — then explores how technology, specifically AI tools, can support, accelerate, or enable what's being built.</p>
+        </div>
+    </section>
+
+    <section class="two-things">
+        <div class="container">
+            <div class="thing-card">
+                <div class="thing-num red">Every Episode</div>
+                <h3>Name the Challenges</h3>
+                <p>The real barriers to building and growing regenerative communities and neighborhoods. What breaks, what stalls, what no one talks about honestly.</p>
+            </div>
+            <div class="thing-card">
+                <div class="thing-num blue">Every Episode</div>
+                <h3>Explore the Solutions</h3>
+                <p>How technology — specifically AI tools — can support, accelerate, or enable what communities are building. Tech in service of community, not the other way around.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="episodes" id="episodes">
+        <div class="container">
+            <h2>10 Episodes. One Question at a Time.</h2>
+            <div class="episode-list">
+                <div class="episode-item">
+                    <div class="episode-num red">01</div>
+                    <div class="episode-title">Finding Your People</div>
+                    <div class="episode-duration">60 min</div>
+                    <div class="episode-arrow">→</div>
+                </div>
+                <div class="episode-item">
+                    <div class="episode-num orange">02</div>
+                    <div class="episode-title">The Land Question</div>
+                    <div class="episode-duration">75 min</div>
+                    <div class="episode-arrow">→</div>
+                </div>
+                <div class="episode-item">
+                    <div class="episode-num yellow">03</div>
+                    <div class="episode-title">Governance That Doesn't Suck</div>
+                    <div class="episode-duration">60 min</div>
+                    <div class="episode-arrow">→</div>
+                </div>
+                <div class="episode-item">
+                    <div class="episode-num green">04</div>
+                    <div class="episode-title">Money That Makes Sense</div>
+                    <div class="episode-duration">75 min</div>
+                    <div class="episode-arrow">→</div>
+                </div>
+                <div class="episode-item">
+                    <div class="episode-num blue">05</div>
+                    <div class="episode-title">The Technology Question</div>
+                    <div class="episode-duration">60 min</div>
+                    <div class="episode-arrow">→</div>
+                </div>
+                <div class="episode-item">
+                    <div class="episode-num indigo">06</div>
+                    <div class="episode-title">Conflict as Fuel</div>
+                    <div class="episode-duration">60 min</div>
+                    <div class="episode-arrow">→</div>
+                </div>
+                <div class="episode-item">
+                    <div class="episode-num violet">07</div>
+                    <div class="episode-title">Growing Without Losing Your Soul</div>
+                    <div class="episode-duration">60 min</div>
+                    <div class="episode-arrow">→</div>
+                </div>
+                <div class="episode-item">
+                    <div class="episode-num red">08</div>
+                    <div class="episode-title">The Next Generation</div>
+                    <div class="episode-duration">75 min</div>
+                    <div class="episode-arrow">→</div>
+                </div>
+                <div class="episode-item">
+                    <div class="episode-num orange">09</div>
+                    <div class="episode-title">Rituals and Culture</div>
+                    <div class="episode-duration">60 min</div>
+                    <div class="episode-arrow">→</div>
+                </div>
+                <div class="episode-item">
+                    <div class="episode-num yellow">10</div>
+                    <div class="episode-title">The Network Effect</div>
+                    <div class="episode-duration">60 min</div>
+                    <div class="episode-arrow">→</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="guests" id="guests">
+        <div class="container">
+            <h2>The Guests</h2>
+            <p class="guests-subtitle">People running society pilots — founders, builders, enablers</p>
+            <div class="guest-grid">
+                <div class="guest-card"><h3>Jordan</h3><div class="community">Wild Seeds — San Diego</div><div class="type">Community Founder</div></div>
+                <div class="guest-card"><h3>Nicole Reese</h3><div class="community">Terrenity + Regen Tribe</div><div class="type">Community Founder</div></div>
+                <div class="guest-card"><h3>Murat</h3><div class="community">The Ark — Costa Rica</div><div class="type">Community Founder</div></div>
+                <div class="guest-card"><h3>Gini</h3><div class="community">Loveland — Community Root</div><div class="type">Community Founder</div></div>
+                <div class="guest-card"><h3>Sam</h3><div class="community">TDF Oasa — Closer Community</div><div class="type">Community Founder</div></div>
+                <div class="guest-card"><h3>NEOS Life</h3><div class="community">Portugal (couple)</div><div class="type">Community Founder</div></div>
+                <div class="guest-card"><h3>Florian</h3><div class="community">Geodomes</div><div class="type">Regen Designer & AI Engineer</div></div>
+                <div class="guest-card"><h3>Frances</h3><div class="community">Regenesis</div><div class="type">Founder</div></div>
+                <div class="guest-card"><h3>Jean Luc</h3><div class="community">Regen Community Entrepreneur</div><div class="type">Founder</div></div>
+                <div class="guest-card"><h3>Julian</h3><div class="community">Retribalize</div><div class="type">Community Founder</div></div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p class="tagline">Edge Of Society</p>
+            <p>Building neighborhood by neighborhood — together.</p>
+        </div>
+    </footer>
+</body>
+</html>
