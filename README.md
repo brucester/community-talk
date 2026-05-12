@@ -1,8 +1,8 @@
-## Community Talk
+## Edge Of Society
 
 ## What Is This?
 
-**Community Talk** is a conversation between friends exploring the world of regenerative community — part interview, part storytelling, part workshop. We talk to people who are actually *doing* the work: founders building neighborhoods from scratch, members living in community, service providers enabling community life, and resource holders (investors, land stewards) making community financially possible.
+**Edge Of Society** is a conversation between friends exploring the world of regenerative community — part interview, part storytelling, part workshop. We talk to people who are actually *doing* the work: founders building neighborhoods from scratch, members living in community, service providers enabling community life, and resource holders (investors, land stewards) making community financially possible.
 
 The goal: make the invisible work of community building visible. So others know what's happening in the space, what's possible, and how to get involved.
 

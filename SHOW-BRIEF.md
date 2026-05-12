@@ -1,4 +1,4 @@
-# Community Talk
+# Edge Of Society
 
 > A talk show exploring regenerative communities — guests, stories, and ideas shaping the future of neighborhood life.
 
