@@ -69,6 +69,7 @@ We're looking for people running society pilots on the edge:
 | Nicole Reese | Terrenity + Regen Tribe | Founder |
 | Murat | The Ark — Costa Rica | Founder |
 | Gini | Loveland — Community Root | Founder |
+| Sam | TDF Oasa — Closer Community | Founder |
 
 ## Listen / Watch
 
