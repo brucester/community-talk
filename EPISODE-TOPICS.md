@@ -2,26 +2,35 @@
 
 ## Quick Reference
 
-| # | Episode Title | Duration | Guest Type |
-|---|-------------|----------|------------|
-| 1 | Finding Your People | 60 min | Founder |
-| 2 | The Land Question | 75 min | Land steward |
-| 3 | Governance That Doesn't Suck | 60 min | Facilitator |
-| 4 | Money That Makes Sense | 75 min | Cooperative developer |
-| 5 | The Technology Question | 60 min | Community technologist |
-| 6 | Conflict as Fuel | 60 min | Mediator |
-| 7 | Growing Without Losing Your Soul | 60 min | Founder |
-| 8 | The Next Generation | 75 min | Parent + educator |
-| 9 | Rituals and Culture | 60 min | Community builder |
-| 10 | The Network Effect | 60 min | Network organizer |
+| # | Episode Title | Duration | Primary Guest Type |
+|---|-------------|----------|-------------------|
+| 1 | Finding Your People | 60 min | Community Founder |
+| 2 | The Land Question | 75 min | Resource Holder |
+| 3 | Governance That Doesn't Suck | 60 min | Service Provider |
+| 4 | Money That Makes Sense | 75 min | Resource Holder |
+| 5 | The Technology Question | 60 min | Service Provider |
+| 6 | Conflict as Fuel | 60 min | Community Member |
+| 7 | Growing Without Losing Your Soul | 60 min | Community Founder |
+| 8 | The Next Generation | 75 min | Community Member |
+| 9 | Rituals and Culture | 60 min | Community Member |
+| 10 | The Network Effect | 60 min | Resource Holder / Founder |
+
+**Guest Types:**
+- **F** = Community Founder
+- **M** = Community Member
+- **S** = Service Provider
+- **R** = Resource Holder (investor, land, capital)
+- **C** = Curious Person (anyone genuinely asking questions)
 
 ---
 
 ## Episode 1: Finding Your People
 
+*Best as: F, M — or a conversation between two people who found each other*
+
 ### Core Questions
 
-1. Walk me through the moment you realized you needed to find your community — what was happening in your life?
+1. Walk me through the moment you realized you needed to find your community — what was happening?
 2. How long did the search take, and what did it cost you emotionally and practically?
 3. What's the difference between "finding a community" and "attracting your community"? Which are you doing?
 4. Tell me about the community you first tried to join — why didn't it work?
@@ -39,6 +48,8 @@
 ---
 
 ## Episode 2: The Land Question
+
+*Best as: R, F — someone who has actually found land and someone who is still looking*
 
 ### Core Questions
 
@@ -61,6 +72,8 @@
 
 ## Episode 3: Governance That Doesn't Suck
 
+*Best as: S, F — a facilitator or consultant who has seen dozens of communities + a founder who lived it*
+
 ### Core Questions
 
 1. Why do so many intentional communities fall apart over governance — what's the actual failure mode?
@@ -81,6 +94,8 @@
 ---
 
 ## Episode 4: Money That Makes Sense
+
+*Best as: R, F — a cooperative developer or investor + a founder managing real money*
 
 ### Core Questions
 
@@ -103,6 +118,8 @@
 
 ## Episode 5: The Technology Question
 
+*Best as: S, F — a community tech builder or integrator + someone who has tried and abandoned tools*
+
 ### Core Questions
 
 1. When did you first think "this technology could actually help our community" — and when did you think "this is creating problems"?
@@ -123,6 +140,8 @@
 ---
 
 ## Episode 6: Conflict as Fuel
+
+*Best as: M, S — a member who has been through it + a mediator or facilitator*
 
 ### Core Questions
 
@@ -145,6 +164,8 @@
 
 ## Episode 7: Growing Without Losing Your Soul
 
+*Best as: F, M — a founder who has scaled or chosen not to + a member who watched it happen*
+
 ### Core Questions
 
 1. The "founder's curse" — when the person who started the community becomes the bottleneck. Have you seen this? What does it look like?
@@ -165,6 +186,8 @@
 ---
 
 ## Episode 8: The Next Generation
+
+*Best as: M, S — parents in community + an educator or youth worker*
 
 ### Core Questions
 
@@ -187,6 +210,8 @@
 
 ## Episode 9: Rituals and Culture
 
+*Best as: M, F — a member who lives the culture daily + a founder who deliberately shaped it*
+
 ### Core Questions
 
 1. "Living together" vs. "being a community" — what's the actual difference?
@@ -207,6 +232,8 @@
 ---
 
 ## Episode 10: The Network Effect
+
+*Best as: R, F — a network organizer + a founder who has built relationships between communities*
 
 ### Core Questions
 

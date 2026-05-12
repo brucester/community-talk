@@ -6,12 +6,26 @@
 
 ## The Show Concept
 
-**Format:** Long-form conversation (45–90 min) — part interview, part storytelling, part workshop
-**Vibe:** Warm, curious, grounded — like a conversation with someone who's actually *doing* the work
-**Audience:** People starting or growing regenerative communities, urban planners, social entrepreneurs, land trust advocates, local governance nerds
+**Format:** Conversation between friends — warm, honest, curious. Not a panel, not a lecture. Two or three people talking about real community life. Long-form (45–90 min).
+**Vibe:** Like sitting around a fire with people who are actually doing the work. No polish required — just real conversations.
+**Audience:** People starting or growing regenerative communities, urban planners, social entrepreneurs, land trust advocates, local governance nerds, curious newcomers.
 
-**Core Question We Always Return To:**
+**The core question we always return to:**
 *How do we build neighborhoods where both people and land thrive?*
+
+---
+
+## Who We Talk To
+
+We invite five types of guests — and we rotate through them:
+
+| Guest Type | What They Bring |
+|------------|----------------|
+| **Community Founders** | The real story — how they found land, built trust, made decisions, survived conflict |
+| **Community Members** | Daily life in community — what it actually feels like, what they learned, what surprised them |
+| **Service Providers** | Architects, coaches, facilitators, legal, tech — the people who make community work |
+| **Resource Holders** | Investors, land stewards, cooperative developers — people who fund and enable community |
+| **Curious People** | Anyone asking "is community for me?" — honest exploration, no gatekeeping |
 
 ---
 
@@ -19,9 +33,9 @@
 
 Each episode follows a loose structure:
 
-1. **Opening (5 min)** — The guest's "origin story" — how they got into this work
-2. **Deep Dive (30–50 min)** — One main topic per episode (see below)
-3. **Rapid Fire (10 min)** — 5 quick questions: favorite community, most underrated tool, daily practice, etc.
+1. **Opening (5 min)** — How the guest got into this work
+2. **Deep Dive (30–50 min)** — One main topic per episode
+3. **Rapid Fire (10 min)** — 5 quick questions
 4. **Close (5 min)** — What they're building next, where to find them
 
 ---
@@ -53,7 +67,7 @@ Each episode follows a loose structure:
 
 - Why do so many intentional communities fail at governance?
 - Democracy, sociocracy, meritocracy — when does each actually make sense?
-- Stories: what does AI-facilitated governance actually look like in practice?
+- Stories: what does AI-facilitated governance look like in practice?
 - How do you handle the person who always blocks consensus?
 - The one rule that changed everything for your community
 - Quick: governance tool you actually use every day?
@@ -115,7 +129,7 @@ Each episode follows a loose structure:
 - Daily, weekly, seasonal rhythms that actually stick
 - Origin stories — why the founding myth matters
 - Food, fire, song — the simplest rituals that transform group dynamics
-- What happens when culture becomes强迫 (forced)?
+- What happens when culture becomes forced?
 - Quick: one ritual your community does that you'd never give up?
 
 ### Episode 10: The Network Effect
@@ -127,16 +141,6 @@ Each episode follows a loose structure:
 - The challenge of "tribalism" between communities with shared missions
 - What could a global network of regenerative neighborhoods actually accomplish?
 - Quick: one community you'd love to visit and why?
-
----
-
-## Guest Types to Invite
-
-1. **Founders** — People who started communities and are willing to tell the real story
-2. **Researchers** — Academics studying community design, social cohesion, ecological governance
-3. **Practitioners** — Land trust managers, cooperative developers, governance consultants
-4. **Dreamers** — People in the early stages building something worth watching
-5. **Skeptics** — People who tried community and left — the most important stories
 
 ---
 

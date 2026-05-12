@@ -1,22 +1,34 @@
-# Community Talk
-
-> A talk show exploring regenerative communities — guests, stories, and ideas shaping the future of neighborhood life.
+## Community Talk
 
 ## What Is This?
 
-**Community Talk** is a long-form interview series about building and sustaining regenerative communities. We talk to founders, researchers, practitioners, and dreamers who are doing the actual work of creating neighborhoods where both people and land thrive.
+**Community Talk** is a conversation between friends exploring the world of regenerative community — part interview, part storytelling, part workshop. We talk to people who are actually *doing* the work: founders building neighborhoods from scratch, members living in community, service providers enabling community life, and resource holders (investors, land stewards) making community financially possible.
+
+The goal: make the invisible work of community building visible. So others know what's happening in the space, what's possible, and how to get involved.
 
 **The core question we always return to:**
 *How do we build neighborhoods where both people and land thrive?*
 
-## The Format
+## Who We Talk To
 
-Each episode (45–90 minutes) follows a structure:
+We invite four types of guests — and we rotate through them:
 
-1. **Opening (5 min)** — The guest's origin story
+| Guest Type | What They Bring |
+|------------|----------------|
+| **Community Founders** | The real story — how they found land, built trust, made decisions, survived conflict |
+| **Community Members** | Daily life in community — what it actually feels like, what they learned, what surprised them |
+| **Service Providers** | Architects, coaches, facilitators, legal, tech — the people who make community work |
+| **Resource Holders** | Investors, land stewards, cooperative developers — people who fund and enable community |
+| **Curious People** | Anyone asking "is community for me?" — honest exploration, no gatekeeping |
+
+## Format
+
+Each episode (45–90 minutes) follows a loose structure:
+
+1. **Opening (5 min)** — How the guest got into this work
 2. **Deep Dive (30–50 min)** — One main topic per episode
-3. **Rapid Fire (10 min)** — Five quick questions
-4. **Close (5 min)** — What they're building next
+3. **Rapid Fire (10 min)** — 5 quick questions
+4. **Close (5 min)** — What they're building next, where to find them
 
 ## Episodes
 
