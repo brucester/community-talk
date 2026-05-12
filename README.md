@@ -65,6 +65,7 @@ We're looking for people running society pilots on the edge:
 
 | Name | Community | Type |
 |------|-----------|------|
+| Julian | Retribalize | Founder |
 | Jordan | Wild Seeds — San Diego | Founder |
 | Nicole Reese | Terrenity + Regen Tribe | Founder |
 | Murat | The Ark — Costa Rica | Founder |
