@@ -183,6 +183,7 @@ We're looking for people with real experience running society pilots on the edge
 | Nicole Reese | Terrenity + Regen Tribe | Community Founder |
 | Murat | The Ark — Costa Rica | Community Founder |
 | Gini | Loveland — Community Root | Community Founder |
+| Sam | TDF Oasa — Closer Community | Community Founder |
 
 *Add more as we book them.*
 
