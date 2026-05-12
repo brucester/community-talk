@@ -70,6 +70,10 @@ We're looking for people running society pilots on the edge:
 | Murat | The Ark — Costa Rica | Founder |
 | Gini | Loveland — Community Root | Founder |
 | Sam | TDF Oasa — Closer Community | Founder |
+| NEOS Life | Portugal (couple) | Founder |
+| Florian | Geodomes — Regen Designer & AI Engineer | Founder |
+| Frances | Regenesis | Founder |
+| Jean Luc | Regen Community Entrepreneur | Founder |
 
 ## Listen / Watch
 
