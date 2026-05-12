@@ -38,6 +38,8 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 
 *Best as: F, M — or a conversation between two people who found each other*
 
+**Suggested Guest: Julian — Retribalize**
+
 ### Core Questions
 
 1. Walk me through the moment you realized you needed to find your community — what was happening?
