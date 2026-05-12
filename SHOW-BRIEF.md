@@ -173,11 +173,18 @@ Each episode follows a loose structure:
 
 ---
 
-## Where to Listen / Watch
+## Potential Guests
 
-- [YouTube Channel]
-- [Podcast RSS]
-- [Website]
+We're looking for people with real experience running society pilots on the edge:
+
+| Name | Community | Type |
+|------|-----------|------|
+| Jordan | Wild Seeds — San Diego | Community Founder |
+| Nicole Reese | Terrenity + Regen Tribe | Community Founder |
+| Murat | The Ark — Costa Rica | Community Founder |
+| Gini | Loveland — Community Root | Community Founder |
+
+*Add more as we book them.*
 
 ---
 

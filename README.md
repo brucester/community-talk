@@ -15,7 +15,7 @@ By creating **society pilots on the edge of the monolith**, we get to experiment
 2. **Explore the solutions** — how technology, specifically AI tools, can support, accelerate, or enable what communities are building
 
 **The core question we always return to:**
-*How do we build neighborhoods where both people and land thrive?* *How do we Re.develop society?**
+*How do we build neighborhoods where both people and land thrive?*
 
 ## Who We Talk To
 
@@ -61,15 +61,14 @@ The show concept, format, and guest strategy is in [SHOW-BRIEF.md](SHOW-BRIEF.md
 
 ## Want to Be a Guest?
 
-We're looking for:
+We're looking for people running society pilots on the edge:
 
-- People who started communities and are willing to tell the real story
-- Researchers studying community design and social cohesion
-- Land trust managers, cooperative developers, governance facilitators
-- People in the early stages building something worth watching
-- People who left communities — their stories are some of the most important
-
-Reach out if you're working on something real.
+| Name | Community | Type |
+|------|-----------|------|
+| Jordan | Wild Seeds — San Diego | Founder |
+| Nicole Reese | Terrenity + Regen Tribe | Founder |
+| Murat | The Ark — Costa Rica | Founder |
+| Gini | Loveland — Community Root | Founder |
 
 ## Listen / Watch
 
