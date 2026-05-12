@@ -11,7 +11,7 @@ The goal: make the invisible work of community building visible. So others know 
 By creating **society pilots on the edge of the monolith**, we get to experiment and iterate quickly on social structures that are good for: **you**, **the collective**, and **the planet**.
 
 **The core question we always return to:**
-*How do we build neighborhoods where both people and land thrive?*
+*How do we build neighborhoods where both people and land thrive?* *How do we Re.develop society?**
 
 ## Who We Talk To
 
