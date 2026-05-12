@@ -23,6 +23,12 @@ Society has been built a certain way over time — and it has become a monolith.
 
 By creating **society pilots on the edge of the monolith**, we get to experiment and iterate quickly on social structures that are good for: **you**, **the collective**, and **the planet**.
 
+**Every episode does two things:**
+1. **Name the challenges** — the real barriers to building and growing regenerative communities and neighborhoods
+2. **Explore the solutions** — how technology, specifically AI tools, can support, accelerate, or enable what communities are building
+
+This isn't tech for the sake of tech. It's tech in service of community.
+
 
 That's what this show is about. Conversations with people running those experiments — building neighborhoods, governance models, economies, and cultures on the edge. Learning out loud. Showing the rest of the world what's possible when you stop trying to fit in and start building differently.
 

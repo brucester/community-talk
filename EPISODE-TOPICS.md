@@ -1,4 +1,14 @@
-# Episode Topics & Questions
+# Edge Of Society — Episode Topics & Questions
+
+> Every episode names the challenges in community and neighborhood growth, then explores how technology — specifically AI tools — can help.
+
+## Challenge + AI Lens
+
+Each episode is framed around one challenge in community building. We close every episode by exploring what AI tools could help — whether that's matching algorithms, governance facilitation, resource coordination, or something we haven't figured out yet.
+
+The AI question we return to: *What in this challenge could a well-designed AI tool actually solve — and what requires human presence no matter what?*
+
+---
 
 ## Quick Reference
 

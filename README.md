@@ -10,6 +10,10 @@ The goal: make the invisible work of community building visible. So others know 
 
 By creating **society pilots on the edge of the monolith**, we get to experiment and iterate quickly on social structures that are good for: **you**, **the collective**, and **the planet**.
 
+**Every episode does two things:**
+1. **Name the challenges** — the real barriers to building and growing regenerative communities and neighborhoods
+2. **Explore the solutions** — how technology, specifically AI tools, can support, accelerate, or enable what communities are building
+
 **The core question we always return to:**
 *How do we build neighborhoods where both people and land thrive?* *How do we Re.develop society?**
 
