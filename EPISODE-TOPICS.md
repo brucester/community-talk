@@ -1,0 +1,226 @@
+# Episode Topics & Questions
+
+## Quick Reference
+
+| # | Episode Title | Duration | Guest Type |
+|---|-------------|----------|------------|
+| 1 | Finding Your People | 60 min | Founder |
+| 2 | The Land Question | 75 min | Land steward |
+| 3 | Governance That Doesn't Suck | 60 min | Facilitator |
+| 4 | Money That Makes Sense | 75 min | Cooperative developer |
+| 5 | The Technology Question | 60 min | Community technologist |
+| 6 | Conflict as Fuel | 60 min | Mediator |
+| 7 | Growing Without Losing Your Soul | 60 min | Founder |
+| 8 | The Next Generation | 75 min | Parent + educator |
+| 9 | Rituals and Culture | 60 min | Community builder |
+| 10 | The Network Effect | 60 min | Network organizer |
+
+---
+
+## Episode 1: Finding Your People
+
+### Core Questions
+
+1. Walk me through the moment you realized you needed to find your community — what was happening in your life?
+2. How long did the search take, and what did it cost you emotionally and practically?
+3. What's the difference between "finding a community" and "attracting your community"? Which are you doing?
+4. Tell me about the community you first tried to join — why didn't it work?
+5. The moment you found your current community — what was the first sign that it might be right?
+6. What's the most counterintuitive thing you've learned about finding your people?
+7. How do you help someone who's afraid that community will mean losing themselves?
+
+### Rapid Fire
+- Best first step for someone just starting to look?
+- One red flag you now recognize immediately?
+- Most underrated quality in a potential community member?
+- Daily practice that keeps you connected to your community when life is busy?
+- What do you still not have figured out?
+
+---
+
+## Episode 2: The Land Question
+
+### Core Questions
+
+1. Owning land collectively — what did you wish someone had told you before you started?
+2. Land trust vs. cooperative ownership: what's the actual difference in a real person's daily life?
+3. Urban vs. rural — does location change the entire game? How do you think about this choice?
+4. Tell me about finding your land. How long? What fell through? What surprised you?
+5. The economics: can we talk real numbers? What does land actually cost vs. what communities generate?
+6. What do you say to someone who has no capital but wants to access land?
+7. What happens to your community's land arrangement when a founding member dies or leaves?
+
+### Rapid Fire
+- Most surprising thing about your land situation right now?
+- One thing you'd never compromise on in a land agreement?
+- Best resource for someone just starting the land search?
+- Urban or rural — and has that changed?
+- If your land arrangement had a flaw, what would it be?
+
+---
+
+## Episode 3: Governance That Doesn't Suck
+
+### Core Questions
+
+1. Why do so many intentional communities fall apart over governance — what's the actual failure mode?
+2. Democracy, sociocracy, consensus, meritocracy — how do you actually pick the right model?
+3. Tell me about a time governance went really badly. What happened and what did you learn?
+4. What does AI-facilitated governance actually look like in practice? What can it do that humans can't?
+5. How do you handle the person who always blocks consensus — compassionately but firmly?
+6. What's the one governance rule or practice that changed everything for your community?
+7. What should governance documents say that they almost never do?
+
+### Rapid Fire
+- Governance tool you actually use every day?
+- Most overrated governance concept?
+- Most underrated?
+- One thing governance can't solve — no matter how good your system is?
+- What keeps you up at night about your community's governance?
+
+---
+
+## Episode 4: Money That Makes Sense
+
+### Core Questions
+
+1. The question everyone asks but no one answers honestly: how does your community actually make money?
+2. The co-op model in practice — real numbers, real revenue streams, real margins
+3. "Fair contribution" — how do you define that when members have radically different incomes?
+4. What do you do when a member genuinely cannot pay? What's the conversation like?
+5. Revenue diversification — what's actually worked vs. what sounds good in a planning meeting?
+6. How do you handle the tension between financial sustainability and keeping the community accessible?
+7. What financial transparency actually looks like — what do members see, what do they not see?
+
+### Rapid Fire
+- Most creative community revenue stream you've ever heard of?
+- The one expense that always surprises new communities?
+- Best book or resource on community finances?
+- Financial mistake your community made that taught you the most?
+- What would you never fundraise for, no matter how good the cause?
+
+---
+
+## Episode 5: The Technology Question
+
+### Core Questions
+
+1. When did you first think "this technology could actually help our community" — and when did you think "this is creating problems"?
+2. What's the difference between a community that has good technology and one that has too much?
+3. Can you walk me through your actual community tech stack? What do you use, what did you try and abandon?
+4. AI matching, coordination, facilitation — what's real vs. what's vaporware right now?
+5. Privacy and data: what should communities never put online, no matter how convenient?
+6. Tell me about a time technology failed your community. What broke and how did you recover?
+7. What would the "perfect" community technology stack actually look like — five years from now?
+
+### Rapid Fire
+- One piece of tech your community genuinely couldn't live without?
+- One piece of tech you tried to adopt and completely abandoned?
+- Most underrated tool for community coordination?
+- What technology do you think most communities are sleeping on?
+- If you had to pick one: coordination tool, decision tool, or communication tool — and why?
+
+---
+
+## Episode 6: Conflict as Fuel
+
+### Core Questions
+
+1. What's the most important conflict resolution skill — the one that almost no one teaches?
+2. How do you tell the difference between healthy conflict (which is necessary) and destructive conflict (which isn't)?
+3. Tell me about a time conflict went really badly in your community. What happened? What did you learn?
+4. The "difficult person" narrative — how do you actually work with someone who is genuinely hard to work with?
+5. When is leaving the community the right answer — for you, or for someone who is struggling?
+6. What does psychological safety actually mean in a community context, and how do you build it?
+7. How do you prevent conflict from becoming personal — where does community end and individuality begin?
+
+### Rapid Fire
+- One book or practice that changed how you handle conflict?
+- Most underrated conflict resolution technique?
+- What is conflict actually good for in community?
+- The question you ask yourself before engaging in a difficult conversation?
+- What do you wish more communities understood about conflict?
+
+---
+
+## Episode 7: Growing Without Losing Your Soul
+
+### Core Questions
+
+1. The "founder's curse" — when the person who started the community becomes the bottleneck. Have you seen this? What does it look like?
+2. How do you onboard new members without slowly erasing the culture that made the community special?
+3. The 50-person question: does something change at 50? At 100? What did you find?
+4. Stories: communities that grew successfully and communities that chose to stay small. What was the difference?
+5. How do you prevent the "35-year-old problem" — where community culture calcifies around the founding generation?
+6. When is "staying small" actually the smarter choice? When is it avoidance?
+7. What would it take for your community to double in size tomorrow without losing anything?
+
+### Rapid Fire
+- Ideal community size for your context and why?
+- One onboarding mistake you see communities make over and over?
+- Most valuable thing a new member has ever brought to your community?
+- What does "culture" actually mean in your community — what are the unwritten rules?
+- If your community had to choose between doubling size or doubling depth of connection — which would you choose?
+
+---
+
+## Episode 8: The Next Generation
+
+### Core Questions
+
+1. What does it actually take to raise kids in community? What's the reality vs. the romantic version?
+2. What are young people — teenagers and twenties — actually asking for from neighborhood life?
+3. Education: school, unschool, community school — what's worked for the kids in your community?
+4. The intergenerational design question: how do you build for both elders and youth simultaneously?
+5. What do you wish your community had when you were 20?
+6. How do you prepare young people to lead communities — do you even try?
+7. Stories: kids who grew up in community vs. kids who left. What patterns do you see?
+
+### Rapid Fire
+- Favorite memory of community as a kid?
+- One thing communities consistently underestimate about children?
+- Most important thing to get right if you're designing for families?
+- What do teenagers in community need most?
+- Education model you find most interesting right now?
+
+---
+
+## Episode 9: Rituals and Culture
+
+### Core Questions
+
+1. "Living together" vs. "being a community" — what's the actual difference?
+2. Daily, weekly, seasonal rhythms: what practices actually stick in your community?
+3. Origin stories and founding myths: why do they matter and how do you develop them well?
+4. Food, fire, song: the simplest rituals that have the deepest effect on group belonging
+5. What happens when culture becomes something you perform rather than something you live?
+6. The tension between intentional culture and organic culture — how do you nurture without forcing?
+7. Stories: a ritual that started spontaneously and became essential — what made it stick?
+
+### Rapid Fire
+- One ritual your community does that you'd never give up?
+- Most overrated community ritual or tradition you've seen?
+- Best resource for building community culture intentionally?
+- What does your community do for the winter solstice / summer solstice / equinox?
+- Who in your community is the keeper of culture — is that a role or an accident?
+
+---
+
+## Episode 10: The Network Effect
+
+### Core Questions
+
+1. One community is powerful. What happens when regenerative neighborhoods start talking to each other?
+2. What does an inter-community network actually do — what are the concrete functions?
+3. Mutual aid between communities: real examples, not theoretical ones
+4. How do different communities stay aligned on shared values while maintaining their autonomy?
+5. The challenge of "tribalism" — how do communities with similar missions avoid competing?
+6. What could a global network of regenerative neighborhoods actually accomplish that no single community can?
+7. What are the dangers of over-connection? When does the network become a burden?
+
+### Rapid Fire
+- One community you know of that you find most inspiring — and why?
+- Most important thing your community has learned from another community?
+- Dream collaboration between two communities — what would you want them to do together?
+- What is the biggest barrier to inter-community cooperation right now?
+- Where do you see regenerative communities in 20 years — and where do you want them to be?
